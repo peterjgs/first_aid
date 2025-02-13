@@ -1,0 +1,167 @@
+--- 
+title: "First Aid Notes"
+author: "PGS"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+--- 
+
+```{r eval = F}
+
+library(knitr, tidyverse, kableExtra)
+
+```
+
+
+
+# Shock
+
+Any medical condition or injury can lead to shock. Shock is brought on by low circulating blood volume. Patient will have lowered blood pressure.
+
+## Signs and symptoms
+
+- *Initial signs*
+
+  - pale face, lips or fingernails
+  - feeling faint or dizzy
+  - cool, moist, sweaty skin
+  - nausea
+  - anxiety
+
+- *Severe shock:*
+
+  - feeling agitated
+  - feeling thirsty
+  - weak, rapid pulse
+  - shallow, fast breathing
+  - capillary refill more than 2 sec
+  - blue face, earlobes, lips or fingernails (patient is very sick!)
+  - decreasing level of consciousness
+
+## Treatment
+
+- DRSABCD
+- Help the patient lie down. Do not raise their legs.
+- Reassure them.
+- Manage severe bleeding, if any, then other injuries.
+- Loosen tight clothing.
+- Keep them warm using a blanket.
+- Give them small amounts of cool water (if they're conscious, don't have abdominal injuries and won't need an operation soon).
+- If they have difficulty breathing, put them in the recovery position.
+
+<br>
+
+# Heat-induced illness
+
+The aim is to cool down and rehydrate the patient.
+
+*If they don't improve within 10 minutes, call an ambulance.*
+
+## Signs and symptoms
+
+- patient is hot, breathless and sweaty (or dry - worse!)
+- they can't continue their activity - they feel too weak
+- high body temperature
+- feeling faint or dizzy
+- nausea, vomiting or diarrhoea
+- pale skin and signs of shock setting in
+- weak, rapid pulse
+- feeling unsteady on their feet
+- decreasing level of consciousness
+
+## Treatment
+
+- Help patient to lie down in a cool, shaded area.
+- Remove as much of their clothing as possible.
+- Soak them with water.
+- Apply ice packs to neck, armpits, groin.
+- Fan them continuously.
+- Keep spraying them with water or wiping them with a wet cloth.
+
+<br>
+
+# Swelling and cramps
+
+Hot conditions may result in the body becoming temporarily overheated. This can lead to heat-induced swelling of hands or feet.
+
+Losing too much water and salt through sweating can cause heat cramps, especially in the legs and abdomen.
+
+## Treatment
+
+*Swelling*
+
+- Raise the affected limb.
+- Get the patient to exercise it.
+- Keep them cool.
+
+*Cramps*
+
+- Get the patient to stop and rest.
+- Gently stretch the muscle that's affected.
+- Massage the muscle if it helps reduce pain.
+- Apply a cold pack.
+- Get the patient to drink some water.
+
+<br>
+
+# Wounds and Dressings
+
+## Wound types
+
+| Type of wound  |  Description                 |  Caused by |
+|:---------------|:-----------------------------|:------------|
+| Bruise         | Visible discolouration on skin, with pain and swelling   | Blow from something blunt |
+| Incision or cut | Straight cut with edges that come together | Sharp object |
+| Laceration | Wound with ragged edge, edges may not come together | Sharp, possibly jagged objects |
+| Graze | Superficial scraping of skin, may have dirt in it | Scraping across a hard surface |
+| Abrasion | Superficial or deep (possibly with pits) scraping of skin, may have dirt in it | Scraping across a hard surface |
+| Skin tear | Wound with ragged edge | Severe force or thin, fragile skin |
+
+```{r echo = F}
+
+wounds <- read.csv("wound_types.csv")
+
+knitr::kable(wounds)
+
+
+#knitr::kable(wounds)
+
+```
+
+<br>
+
+## Dressings
+
+Dressings can
+
+- absorb blood and other fluids
+- keep a wound clean
+- help protect a wound from infection
+- protect a wound from bumps and scrapes
+- reduce pain
+
+## What dressings to use
+
+*Dry dressings*
+
+- cuts and lacerations
+- closed blisters (with no skin loss)
+- punctures
+
+*Moist (non-adherent) dressings*
+
+- grazes and abrasions
+- open blisters (with skin loss)
+- skin tears
+- burns
+
+*Adhesive dressings*
+
+- minor wounds
+
+*Combine dressing*
+
+- large or deep wounds
+
+<br>

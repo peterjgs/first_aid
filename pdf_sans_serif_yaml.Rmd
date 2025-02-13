@@ -1,0 +1,20 @@
+---
+title: "First Aid Notes"
+author: "PGS"
+date: "`r Sys.Date()`"
+header-includes:
+- \usepackage[default]{sourcesanspro}
+- \usepackage[T1]{fontenc}
+- \usepackage{geometry}
+- \geometry{top=1.5cm,bottom=1.5cm,lmargin=3cm,rmargin=3cm}
+mainfont: SourceSansPro
+output:
+  html_document:
+    toc: true
+    toc_depth: '3'
+    df_print: paged
+  pdf_document:
+    toc: true
+    toc_depth: 3
+--- 
+

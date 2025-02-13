@@ -1,0 +1,7 @@
+Type  ,Description                 ,Cause
+Bruise         ,"Visible discolouration on skin, with pain and swelling   ",Blow from something blunt 
+Incision or cut ,Straight cut with edges that come together ,Sharp object 
+Laceration ,"Wound with ragged edge, edges may not come together ","Sharp, possibly jagged objects "
+Graze ,"Superficial scraping of skin, may have dirt in it ",Scraping across a hard surface 
+Abrasion ,"Superficial or deep (possibly with pits) scraping of skin, may have dirt in it ",Scraping across a hard surface 
+Skin tear ,Wound with ragged edge ,"Severe force or thin, fragile skin "

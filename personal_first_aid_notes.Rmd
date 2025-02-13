@@ -2,15 +2,33 @@
 title: "First Aid Notes"
 author: "PGS"
 date: "`r Sys.Date()`"
-header-includes:
-   - \usepackage[default]{sourcesanspro}
-   - \usepackage[T1]{fontenc}
-mainfont: SourceSansPro
 output:
   pdf_document:
     toc: true
-    toc_depth: 3
----
+    toc_depth: 4
+  html_document:
+    toc: true
+    toc_depth: '4'
+    df_print: paged
+--- 
+
+
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+```{r echo = F, eval = T, message = F}
+
+library(knitr, dplyr)
+
+library(kableExtra)
+
+```
+
 
 
 # Shock
@@ -48,12 +66,15 @@ Any medical condition or injury can lead to shock. Shock is brought on by low ci
 - Give them small amounts of cool water (if they're conscious, don't have abdominal injuries and won't need an operation soon).
 - If they have difficulty breathing, put them in the recovery position.
 
+<br>
 
 # Heat-induced illness
 
 The aim is to cool down and rehydrate the patient.
 
 *If they don't improve within 10 minutes, call an ambulance.*
+
+<br>
 
 **Signs and symptoms**
 
@@ -76,6 +97,7 @@ The aim is to cool down and rehydrate the patient.
 - Fan them continuously.
 - Keep spraying them with water or wiping them with a wet cloth.
 
+<br>
 
 # Swelling and cramps
 
@@ -99,20 +121,27 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 - Apply a cold pack.
 - Get the patient to drink some water.
 
+<br>
 
 # Wounds and Dressings
 
 ## Wound types
 
-| Type of wound  |  Description                 |  Caused by |
-|:---------------|:-----------------------------|:------------|
-| Bruise         | Visible discolouration on skin, with pain and swelling   | Blow from something blunt |
-| Incision or cut | Straight cut with edges that come together | Sharp object |
-| Laceration | Wound with ragged edge, edges may not come together | Sharp, possibly jagged objects |
-| Graze | Superficial scraping of skin, may have dirt in it | Scraping across a hard surface |
-| Abrasion | Superficial or deep (possibly with pits) scraping of skin, may have dirt in it | Scraping across a hard surface |
-| Skin tear | Wound with ragged edge | Severe force or thin, fragile skin |
+```{r}
 
+wounds <- read.csv("wound_types.csv")
+
+#knitr::kable(wounds)
+
+wounds %>%
+  kbl() %>%
+  kable_styling(position = "left", full_width = F) %>%
+  column_spec(2, width = "20em") %>%
+  column_spec(3, width = "10em")
+
+```
+
+<br>
 
 ## Dressings
 
@@ -147,8 +176,87 @@ Dressings can
 
 - large or deep wounds
 
+<br>
+
+# Alcohol and drugs
+
+Users' own reports about their drug use are unreliable!
+
+*Record what they say, treat what you find!*
+
+## Broad groups
+
+### Substances that slow patients down - depressants
+
+**Signs and symptoms**
+
+- reduced pulse rate
+- reduced blood pressure
+- reduced level of consciousness
+- usually also reduced respiration rate and respiration volume
+- this general reduction in vital signs leads to reduced movement, resulting in *reduced temperature*
+
+**Treatment**
+
+- Maintain the patient's airway and ventilation (usually with a bag valve mask (BVM) resuscitator - picture below).
 
 
+```{r echo = F, out.width = "40%", fig.align = "left"}
 
+knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
+
+```
+
+**Examples**
+
+- alcohol
+- cannabis
+- barbiturates (and other sleeping tablets)
+- benzodiazepines (and other tranquilisers)
+- narcotics (e.g. heroin)
+- volatile substances (e.g. petrol, thinners)
+
+#### Alcohol - snippets
+
+- Being drunk slows down the brain's ability to trigger a gag reflex, which prevents choking, so a drunk person may inhale vomit into their lungs.
+- Keep them as upright as possible - never lay them down. If they can't sit up, put them into the recovery position.
+- Alcohol is a diuretic. It also causes the stomach to produce more acid than usual, which may cause stomach ache, diarrhoea or vomiting. Give them an open bottle of water so they can *sip* when they want or rinse out their mouth - don't give them acidic drinks like fruit juice.
+- Alcohol can cause a drop in body temperature, so keep them warm if they're cold.
+- Don't leave them alone - particularly if they're vomiting. Monitor them.
+
+### Substances that speed people up - stimulants
+
+**Signs and symptoms**
+
+- increased pulse rate
+- increased blood pressure
+- increased level of consciousness
+- usually also increased respiratory rate and respiratory volume
+- this general increase in vital signs leads to increased movement, resulting in *increased temperature*
+- sweating
+- confusion and inability to answer simple questions
+
+**Treatment**
+
+- Reduce stimuli affecting the patient (i.e. move them away from loud music to a quiet place with no bright lights) to help *bring their temperature down* into the normal range (reducing stimuli and agitation is always the most effective way to reduce temperature).
+- To reduce temperature, you may also need to
+  - give them small amounts of water - give them an open bottle and say, "Sip when you need to"
+  - remove clothing
+  - keep the environment cool
+- Stay with them - don't leave them alone - and monitor them.  
+
+**Examples**
+
+- amphetamines
+- cocaine
+- ecstasy (i.e. MDMA or methylenedioxymethamphetamine - similar structure to methamphetamine (speed))
+
+**Notes**
+
+- The effect of stimulants is similar to a state of fright. Blood is moved to the muscles to prepare for running away, pupils dilate so the person can see better. Maintaining this state of fright requires energy - the body uses up available energy stores (glucose) and *body temperature increases*.
+- MDMA affects how the body regulates temperature and the body may not respond to warning signals from the brain about it overheating, so the person may not realise their body temperature is becoming too high.
+
+
+<br>
 
 
