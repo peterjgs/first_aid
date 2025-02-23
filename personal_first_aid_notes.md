@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "`r Sys.Date()`"
+date: "2025-02-23"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -9,32 +9,22 @@ header-includes:
   - \geometry{top=1.5cm,bottom=2cm,lmargin=4cm,rmargin=4cm}
 mainfont: SourceSansPro
 output:
-  pdf_document:
-    toc: true
-    toc_depth: 4
   html_document:
     toc: true
     toc_depth: '4'
     keep_md: true
     df_print: paged
+  pdf_document:
+    toc: true
+    toc_depth: 4
 --- 
 
 
 
-```{r setup, include = FALSE}
-
-knitr::opts_chunk$set(echo = FALSE, dev = "cairo_pdf")
-
-```
 
 
-```{r echo = F, eval = T, message = F}
 
-library(knitr, dplyr)
 
-library(kableExtra)
-
-```
 
 
 
@@ -134,19 +124,47 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 
 ## Wound types
 
-```{r}
-
-wounds <- read.csv("wound_types.csv")
-
-#knitr::kable(wounds)
-
-wounds %>%
-  kbl() %>%
-  kable_styling(position = "left", full_width = F) %>%
-  column_spec(2, width = "20em") %>%
-  column_spec(3, width = "10em")
-
-```
+<table class="table" style="color: black; width: auto !important; ">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Type </th>
+   <th style="text-align:left;"> Description </th>
+   <th style="text-align:left;"> Cause </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Bruise </td>
+   <td style="text-align:left;width: 20em; "> Visible discolouration on skin, with pain and swelling </td>
+   <td style="text-align:left;width: 10em; "> Blow from something blunt </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Incision or cut </td>
+   <td style="text-align:left;width: 20em; "> Straight cut with edges that come together </td>
+   <td style="text-align:left;width: 10em; "> Sharp object </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Laceration </td>
+   <td style="text-align:left;width: 20em; "> Wound with ragged edge, edges may not come together </td>
+   <td style="text-align:left;width: 10em; "> Sharp, possibly jagged objects </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Graze </td>
+   <td style="text-align:left;width: 20em; "> Superficial scraping of skin, may have dirt in it </td>
+   <td style="text-align:left;width: 10em; "> Scraping across a hard surface </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Abrasion </td>
+   <td style="text-align:left;width: 20em; "> Superficial or deep (possibly with pits) scraping of skin, may have dirt in it </td>
+   <td style="text-align:left;width: 10em; "> Scraping across a hard surface </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Skin tear </td>
+   <td style="text-align:left;width: 20em; "> Wound with ragged edge </td>
+   <td style="text-align:left;width: 10em; "> Severe force or thin, fragile skin </td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 
@@ -208,11 +226,7 @@ Users' own reports about their drug use are unreliable!
 - Maintain the patient's airway and ventilation (usually with a bag valve mask (BVM) resuscitator - picture below).
 
 
-```{r echo = F, out.width = "40%", fig.align = "left"}
-
-knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
-
-```
+<img src="figs/bag_valve_mask_resuscitator_copy.png" width="40%" style="display: block; margin: auto auto auto 0;" />
 
 **Examples**
 
