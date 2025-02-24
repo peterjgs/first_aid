@@ -37,6 +37,21 @@ library(kableExtra)
 ```
 
 
+```{r}
+
+colourise <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
+
+## Example of inline use: `r colourise("some words in red", "red")`
+
+```
+
 
 # Shock
 
@@ -216,6 +231,8 @@ knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
 
 **Examples**
 
+\vspace{-0.4cm}
+
 - alcohol
 - cannabis
 - barbiturates (and other sleeping tablets)
@@ -235,6 +252,8 @@ knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
 
 **Signs and symptoms**
 
+\vspace{-0.4cm}
+
 - increased pulse rate
 - increased blood pressure
 - increased level of consciousness
@@ -245,6 +264,8 @@ knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
 
 **Treatment**
 
+\vspace{-0.4cm}
+
 - Reduce stimuli affecting the patient (i.e. move them away from loud music to a quiet place with no bright lights) to help *bring their temperature down* into the normal range (reducing stimuli and agitation is always the most effective way to reduce temperature).
 - To reduce temperature, you may also need to
   - give them small amounts of water - give them an open bottle and say, "Sip when you need to"
@@ -254,11 +275,15 @@ knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
 
 **Examples**
 
+\vspace{-0.4cm}
+
 - amphetamines
 - cocaine
 - ecstasy (i.e. MDMA or methylenedioxymethamphetamine - similar structure to methamphetamine (speed))
 
 **Notes**
+
+\vspace{-0.4cm}
 
 - The effect of stimulants is similar to a state of fright. Blood is moved to the muscles to prepare for running away, pupils dilate so the person can see better. Maintaining this state of fright requires energy - the body uses up available energy stores (glucose) and *body temperature increases*.
 - MDMA affects how the body regulates temperature and the body may not respond to warning signals from the brain about it overheating, so the person may not realise their body temperature is becoming too high.
@@ -266,19 +291,25 @@ knitr::include_graphics("figs/bag_valve_mask_resuscitator_copy.png")
 
 <br>
 
-# Heart conditions
+# Heart conditions and chest pain
 
 First, some terminology ...
 
 **Angina (or ischaemic chest pain)**
 
+\vspace{-0.4cm}
+
 - temporary pain or discomfort in the chest usually brought on by exercise or emotional stress because the coronary arteries are too narrow to supply the extra oxygenated blood required by the increased stress
 
 **Chronic heart failure**
 
+\vspace{-0.4cm}
+
 - an ongoing condition, where the heart muscle is weak and cannot pump normally, often because of age, chronic heart disease or a previous heart attack
 
 **Heart attack**
+
+\vspace{-0.4cm}
 
 - occurs when there's a blockage in an artery supplying blood to some part of the heart, preventing blood from reaching the heart muscle beyond the blockage and leading to damage to the heart muscle
 - symptoms can appear suddenly but more often start slowly and persist for hours, days or weeks
@@ -287,19 +318,59 @@ First, some terminology ...
 
 **Cardiac arrest**
 
-- an electrical malfunction of the heart that causes it to pump irregularly or not at all
+\vspace{-0.4cm}
+
+- an electrical malfunction of the heart that causes the ventricles (large pumping chambers) to quiver or "fibrillate" erratically so that the heart cannot pump blood around the body effectively
 - when pumping is disrupted, the heart cannot supply blood to the brain, lungs or other organs and the patient loses consciousness and has no pulse
 - there is often no warning or symptoms before the patient collapses
 
 *Note the difference between heart attack and cardiac arrest.*
 
+<br>
 
+\vspace{0.2cm}
+
+**`r colourise("NBB", "purple")`**
+
+\vspace{-0.4cm}
+
+- `r colourise("If chest pain comes on quickly or is severe, it's likely to be a heart attack. Call 000.", "purple")`
+- `r colourise("If the patient has angina tablets, it's likely to be angina. Help patient take their angina tablets.", "purple")`
+
+
+## Chronic heart failure
+
+**Signs and symptoms**
+
+\vspace{-0.4cm}
+
+- general tiredness
+- breathlessness when exercising or lying down
+- coughing and wheezing
+- swollen feet, ankles, legs and abdomen
+
+**Treatment**
+
+\vspace{-0.4cm}
+
+- Unconscious patient
+  - DRSABCD
+  - call 000
+
+- Conscious patient
+  - help patient sit or lie in a comfortable position and reassure them
+  - loosen any tight clothing
+  - if the patient becomes breathless or collapses, follow DRSABCD and call 000
+  
+ 
 ## Angina
 
 - angina is usually relieved by rest and angina medication
 - most patients with angina are aware of it and have angina medication
 
 **Signs and symptoms**
+
+\vspace{-0.4cm}
 
 - discomfort or tight or squeezing pain in the chest (usually in the centre)
 - pain may be mild to severe
@@ -308,15 +379,23 @@ First, some terminology ...
 
 *If the patient has the above symptoms and they aren't relieved by angina medication, treat the patient as for a heart attack.*
 
+**Treatment**
 
-## Chronic heart failure
+\vspace{-0.4cm}
 
-**Signs and symptoms**
-
-- general tiredness
-- breathlessness when exercising or lying down
-- coughing and wheezing
-- swollen feet, ankles, legs and abdomen
+- ask patient to stop what they're doing and rest
+- help them sit or lie in a comfortable position and reassure them
+- loosen any tight clothing
+- ask them to describe their symptoms
+- ask if these signs or symptoms have happened before
+  - if so, ask if they have any medication for them
+- if rest does not relieve symptoms
+  - help them take their angina medication
+  - if angina medication has not relieved symptoms after 5 minutes, get them to take another dose
+- if symptoms are severe or have not been relieved after 10 minutes, call 000
+- operator at 000 may recommend giving patient 300 mg aspirin, if patient can tolerate aspirin
+- stay with the patient - do not drive them to hospital, in case you need to do CPR
+- if symptoms are relieved quickly, advise them to see a doctor
 
 
 ## Heart attack
@@ -328,6 +407,8 @@ First, some terminology ...
 - People can have one or a combination of symptoms
 
 **Signs and symptoms**
+
+\vspace{-0.4cm}
 
 - discomfort or pain in the centre of the chest
 
@@ -356,7 +437,54 @@ First, some terminology ...
   - jaw or arm pain
   - nausea
 
+**Treatment**
+
+\vspace{-0.4cm}
+
+- Unconscious patient
+  - DRSABCD
+  - call 000
+  - prepare for giving CPR
+  
+- Conscious patient
+  - ask patient to stop what they're doing and rest
+  - help them sit or lie in a comfortable position and reassure them
+  - loosen any tight clothing
+  - get an AED as a precaution
+  - ask them to describe their symptoms
+  - ask if these signs or symptoms have happened before
+    - if so, ask if they have any medication for them
+    - if they do have medication (i.e. for episodes of chest pain), help them take it
+  - if symptoms are severe, get worse quickly or last for more than 10 minutes, call 000
+  - *the highest priority for someone having a heart attack is to get them to hospital*
+  - operator at 000 may recommend giving patient 300 mg aspirin, if patient can tolerate aspirin
+  - stay with the patient - do not drive them to hospital, in case you need to do CPR
+  
+
+
 ## Cardiac arrest
+
+*The only effective treatment for cardiac arrest outside a hospital is to use an automated external defibrillator (AED).*
+
+**Signs and symptoms**
+
+\vspace{-0.4cm}
+
+- sudden collapse
+- patient unresponsive
+- patient not breathing
+
+**Treatment**
+
+\vspace{-0.4cm}
+
+- DRSABCD
+- Call 000
+- Start CPR
+- Get a defibrillator and use it if the patient is unconscious and not breathing normally
+- Continue CPR till the ambulance arrives
+- Do not remove the defibrillator pads, if the defibrillator has been used
+- *You cannot harm a patient by connecting a defibrillator because the machine will work out if a shock is needed or not*
 
 
 
