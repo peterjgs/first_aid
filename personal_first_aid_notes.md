@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-02-24"
+date: "2025-02-26"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -215,6 +215,8 @@ Users' own reports about their drug use are unreliable!
 
 ### Substances that slow patients down - depressants
 
+Depressants slow down messages travelling between the brain and the body.
+
 **Signs and symptoms**
 
 - reduced pulse rate
@@ -239,6 +241,7 @@ Users' own reports about their drug use are unreliable!
 - barbiturates (and other sleeping tablets)
 - benzodiazepines (and other tranquilisers)
 - narcotics (e.g. heroin)
+- GHB (gamma hydroxybutyrate)
 - volatile substances (e.g. petrol, thinners)
 
 #### Alcohol - snippets
@@ -249,7 +252,30 @@ Users' own reports about their drug use are unreliable!
 - Alcohol can cause a drop in body temperature, so keep them warm if they're cold.
 - Don't leave them alone - particularly if they're vomiting. Monitor them.
 
+**Effects of alcohol include:**
+
+\vspace{-0.4cm}
+
+- unsteady on feet
+- dizziness
+- slurred speech
+- blurred vision
+- reduced pulse
+- reduced blood pressure
+- reduced respiration rate and respiration volume
+- reduced temperature
+- slowed reaction time
+- altered state of consciousness
+- nausea and vomiting
+- increased urination (diuretic effect)
+
+
+
+
+
 ### Substances that speed people up - stimulants
+
+Stimulants speed up messages travelling between the brain and the body.
 
 **Signs and symptoms**
 
@@ -261,7 +287,7 @@ Users' own reports about their drug use are unreliable!
 - usually also increased respiratory rate and respiratory volume
 - this general increase in vital signs leads to increased movement, resulting in *increased temperature*
 - sweating
-- confusion and inability to answer simple questions
+- patient may be confused and unable to answer simple questions
 
 **Treatment**
 
@@ -278,7 +304,7 @@ Users' own reports about their drug use are unreliable!
 
 \vspace{-0.4cm}
 
-- amphetamines
+- amphetamines and methamphetamines (crystal meth or ice, which comes in small crystals, is stronger and has more harmful side effects than the powdered form of methamphetamine or speed)
 - cocaine
 - ecstasy (i.e. MDMA or methylenedioxymethamphetamine - similar structure to methamphetamine (speed))
 
@@ -286,9 +312,23 @@ Users' own reports about their drug use are unreliable!
 
 \vspace{-0.4cm}
 
-- The effect of stimulants is similar to a state of fright. Blood is moved to the muscles to prepare for running away, pupils dilate so the person can see better. Maintaining this state of fright requires energy - the body uses up available energy stores (glucose) and *body temperature increases*.
+- Crystal meth or ice, which comes in small crystals, is stronger and has more harmful side effects than the powdered form of methamphetamine or speed.
+- The effect of stimulants is similar to a state of fright. Blood moves to the muscles to prepare for running away, pupils dilate so the person can see better. Maintaining this state of fright requires energy - the body uses up available energy stores (glucose) and *body temperature increases*.
 - MDMA affects how the body regulates temperature and the body may not respond to warning signals from the brain about it overheating, so the person may not realise their body temperature is becoming too high.
 
+### Other types of drug
+
+- **Dissociative drugs**
+
+  - ketamine
+  
+    - makes people feel separated from their body or environment, producing symptoms such as:
+    - feeling relaxed
+    - hallucinations
+    - confusion and clumsiness
+    - slurred speech and blurred vision
+    - increased heart rate and blood pressure
+    - vomiting
 
 <br>
 
@@ -499,6 +539,35 @@ There's a good video (with transcript) on masks in my "first aid resources" fold
 
 **Note on terminology** *Oxygenation* - putting an oxygen mask on someone's face. *Ventilation* is taking or moving air into the lungs, which then move upwards and outwards, and then the body using oxygen and excreting carbon dioxide.
 
+<br>
+
+# Clinical assessment
+
+There are four components of clinical assessment:
+
+1. Primary assessment - DRSABCD
+
+2. Secondary assessment - head-to-toe examination
+
+3. Vital signs (measure what is appropriate)
+  - level of consciousness
+  - pulse - rate, strength and quality
+  - respiration - rate, strength and quality
+  - skin colour and texture
+  - blood pressure
+  - temperature
+  - SpO~2~ (blood oxygen saturation)
+  - pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
+  - BLG - blood glucose level
+  
+4. Patient history - SAMPLE
+  - S - signs and symptoms
+  - A - allergies
+  - M - medication (regular and any within last 24 hours)
+  - P - past medical history
+  - L - last time they ate or drank
+  - E - events leading up to the current incident
+  
 
 
 <br>
