@@ -553,19 +553,20 @@ There are four components of clinical assessment:
   - pulse - rate, strength and quality
   - respiration - rate, strength and quality
   - skin colour and texture
-  - blood pressure
   - temperature
+  - blood pressure
   - SpO~2~ (blood oxygen saturation)
+  - capillary refill time
   - pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
   - BLG - blood glucose level
   
 4. Patient history - SAMPLE
-  - S - signs and symptoms
-  - A - allergies
-  - M - medication (regular and any within last 24 hours)
-  - P - past medical history
-  - L - last time they ate or drank
-  - E - events leading up to the current incident
+  - **S** - signs and symptoms
+  - **A** - allergies
+  - **M** - medication (regular and any within last 24 hours)
+  - **P** - past medical history
+  - **L** - last time they ate or drank
+  - **E** - events leading up to the current incident
   
 
 
@@ -574,4 +575,120 @@ There are four components of clinical assessment:
 # Glossary
 
 **COPD** - chronic obstructive pulmonary disease (chronic inflammatory lung disease that inflames and narrows the airways; usually caused by long-term exposure to dust or cigarette smoke; also called emphysema or chronic bronchitis)
+
+
+<br>
+
+# Rough notes
+
+## Assessment
+
+**Conscious patient and medical problem**
+
+*Introduction and consent*
+
+\vspace{-0.4cm}
+
+- Hello. My name's Peter. I'm a first aider.
+    - Do you need help? How can I help you?
+
+*Initial history*
+
+\vspace{-0.4cm}
+
+- What happened?
+- When did it happen?
+- How did it happen?
+- Have you got any pain? Where does it hurt?
+- Can you take a deep breath?
+
+*Initial impression*
+
+\vspace{-0.4cm}
+
+- Note patient's reaction to your greeting.
+- Note their response.
+- Note their posture.
+- Note any discomfort or distress.
+
+*Primary assessment (including some vital signs)*
+
+(DRS)ABCD
+
+\vspace{-0.4cm}
+
+- Airway
+- Breathing - rate, rhythm, quality, SpO~2~
+- Circulation - pulse (rate, rhythm, quality), perfusion, blood pressure
+- Dysfunction
+
+*Vital signs (as appropriate)*
+
+\vspace{-0.4cm}
+
+- level of consciousness
+- pulse - rate, strength and quality
+- respiration - rate, strength and quality
+- skin colour and texture
+- temperature
+- blood pressure
+- SpO~2~ (blood oxygen saturation)
+- capillary refill time
+- pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
+- BLG - blood glucose level
+
+
+*Secondary assessment*
+
+\vspace{-0.4cm}
+
+- Head-to-toe examination or focussed examination
+
+
+*History*
+
+For a medical problem, history of current complaint
+
+\vspace{-0.4cm}
+
+- What is the complaint?
+- History - OPQRST
+  - **O** - onset
+    - Did it start gradually or suddenly?
+    - What were you doing when it started - exercising, eating, drinking?
+  - **P** - provocation and palliation
+    - What makes it worse?
+    - What makes it better?
+    - What brought it on?
+  - **Q** - quality
+    - What does it feel like? (sharp, dull, throbbing, crushing ...)
+    - *Let the patient use their own words to describe it.*
+  - **R** - region and radiation
+    - Where did it start? Has it moved? Where is it?
+    - Is it localised or diffuse? (Get patient to point to location.)
+    - Does it stay in one place?
+    - Is it in more than one place? Does it move to other places?
+  - **S** - severity and associated symptoms
+    - How bad is it? (If pain, score it between 0 and 10)
+    - Are there any associated symptoms? (e.g. nausea, dizziness ...)
+  - **T** - time
+    - When did it start?
+    - How long did it last?
+    - Is it constant or does it come and go?
+     
+    
+
+
+SAMPLE
+
+\vspace{-0.4cm}
+
+- **S** - signs and symptoms
+- **A** - allergies
+- **M** - medication (regular and any within last 24 hours)
+- **P** - past medical history
+- **L** - last time they ate or drank
+- **E** - events leading up to the current incident
+
+
 
