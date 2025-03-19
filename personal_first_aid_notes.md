@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-03-03"
+date: "2025-03-19"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -36,6 +36,8 @@ Any medical condition or injury can lead to shock. Shock is brought on by low ci
 
 **Signs and symptoms**
 
+\vspace{-0.2cm}
+
 - *Initial signs*
 
   - pale face, lips or fingernails
@@ -55,6 +57,8 @@ Any medical condition or injury can lead to shock. Shock is brought on by low ci
   - decreasing level of consciousness
 
 **Treatment**
+
+\vspace{-0.2cm}
 
 - DRSABCD
 - Help the patient lie down. Do not raise their legs.
@@ -77,6 +81,8 @@ The aim is to cool down and rehydrate the patient.
 
 **Signs and symptoms**
 
+\vspace{-0.2cm}
+
 - patient is hot, breathless and sweaty (or dry - worse!)
 - they can't continue their activity - they feel too weak
 - high body temperature
@@ -88,6 +94,8 @@ The aim is to cool down and rehydrate the patient.
 - decreasing level of consciousness
 
 **Treatment**
+
+\vspace{-0.2cm}
 
 - Help patient to lie down in a cool, shaded area.
 - Remove as much of their clothing as possible.
@@ -104,15 +112,21 @@ Hot conditions may result in the body becoming temporarily overheated. This can 
 
 Losing too much water and salt through sweating can cause heat cramps, especially in the legs and abdomen.
 
+<br>
+
 **Treatment**
 
 *Swelling*
+
+\vspace{-0.2cm}
 
 - Raise the affected limb.
 - Get the patient to exercise it.
 - Keep them cool.
 
 *Cramps*
+
+\vspace{-0.2cm}
 
 - Get the patient to stop and rest.
 - Gently stretch the muscle that's affected.
@@ -184,11 +198,15 @@ Dressings can
 
 *Dry dressings*
 
+\vspace{-0.2cm}
+
 - cuts and lacerations
 - closed blisters (with no skin loss)
 - punctures
 
 *Moist (non-adherent) dressings*
+
+\vspace{-0.2cm}
 
 - grazes and abrasions
 - open blisters (with skin loss)
@@ -197,9 +215,13 @@ Dressings can
 
 *Adhesive dressings*
 
+\vspace{-0.2cm}
+
 - minor wounds
 
 *Combine dressing*
+
+\vspace{-0.2cm}
 
 - large or deep wounds
 
@@ -213,11 +235,13 @@ Users' own reports about their drug use are unreliable!
 
 ## Broad groups
 
-### Substances that slow patients down - depressants
+### Substances that slow people down - depressants
 
 Depressants slow down messages travelling between the brain and the body.
 
 **Signs and symptoms**
+
+\vspace{-0.2cm}
 
 - reduced pulse rate
 - reduced blood pressure
@@ -227,14 +251,21 @@ Depressants slow down messages travelling between the brain and the body.
 
 **Treatment**
 
+\vspace{-0.2cm}
+
 - Maintain the patient's airway and ventilation (usually with a bag valve mask (BVM) resuscitator - picture below).
 
 
-<img src="figs/bag_valve_mask_resuscitator_copy.png" width="40%" style="display: block; margin: auto auto auto 0;" />
+<div class="figure" style="text-align: left">
+<img src="figs/bag_valve_mask_resuscitator_copy.png" alt="Bag-valve-mask (BVM) resuscitator" width="40%" />
+<p class="caption">Bag-valve-mask (BVM) resuscitator</p>
+</div>
+
+<br>
 
 **Examples**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - alcohol
 - cannabis
@@ -243,6 +274,7 @@ Depressants slow down messages travelling between the brain and the body.
 - narcotics (e.g. heroin)
 - GHB (gamma hydroxybutyrate)
 - volatile substances (e.g. petrol, thinners)
+- amyl nitrite (inhalant; has been used to treat angina; *vasodilator* - medicine causing blood vessels to dilate, lowering blood pressure)
 
 #### Alcohol - snippets
 
@@ -254,7 +286,7 @@ Depressants slow down messages travelling between the brain and the body.
 
 **Effects of alcohol include:**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - unsteady on feet
 - dizziness
@@ -279,7 +311,7 @@ Stimulants speed up messages travelling between the brain and the body.
 
 **Signs and symptoms**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - increased pulse rate
 - increased blood pressure
@@ -291,7 +323,7 @@ Stimulants speed up messages travelling between the brain and the body.
 
 **Treatment**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - Reduce stimuli affecting the patient (i.e. move them away from loud music to a quiet place with no bright lights) to help *bring their temperature down* into the normal range (reducing stimuli and agitation is always the most effective way to reduce temperature).
 - To reduce temperature, you may also need to
@@ -302,7 +334,7 @@ Stimulants speed up messages travelling between the brain and the body.
 
 **Examples**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - amphetamines and methamphetamines (crystal meth or ice, which comes in small crystals, is stronger and has more harmful side effects than the powdered form of methamphetamine or speed)
 - cocaine
@@ -310,7 +342,7 @@ Stimulants speed up messages travelling between the brain and the body.
 
 **Notes**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - Crystal meth or ice, which comes in small crystals, is stronger and has more harmful side effects than the powdered form of methamphetamine or speed.
 - The effect of stimulants is similar to a state of fright. Blood moves to the muscles to prepare for running away, pupils dilate so the person can see better. Maintaining this state of fright requires energy - the body uses up available energy stores (glucose) and *body temperature increases*.
@@ -338,19 +370,19 @@ First, some terminology ...
 
 **Angina (or ischaemic chest pain)**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - temporary pain or discomfort in the chest usually brought on by exercise or emotional stress because the coronary arteries are too narrow to supply the extra oxygenated blood required by the increased stress
 
 **Chronic heart failure**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - an ongoing condition, where the heart muscle is weak and cannot pump normally, often because of age, chronic heart disease or a previous heart attack
 
 **Heart attack**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - occurs when there's a blockage in an artery supplying blood to some part of the heart, preventing blood from reaching the heart muscle beyond the blockage and leading to damage to the heart muscle
 - symptoms can appear suddenly but more often start slowly and persist for hours, days or weeks
@@ -359,7 +391,7 @@ First, some terminology ...
 
 **Cardiac arrest**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - an electrical malfunction of the heart that causes the ventricles (large pumping chambers) to quiver or "fibrillate" erratically so that the heart cannot pump blood around the body effectively
 - when pumping is disrupted, the heart cannot supply blood to the brain, lungs or other organs and the patient loses consciousness and has no pulse
@@ -373,7 +405,7 @@ First, some terminology ...
 
 **<span style='color: purple;'>NBB</span>**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - <span style='color: purple;'>If chest pain comes on quickly or is severe, it's likely to be a heart attack. Call 000.</span>
 - <span style='color: purple;'>If the patient has angina tablets, it's likely to be angina. Help patient take their angina tablets.</span>
@@ -383,7 +415,7 @@ First, some terminology ...
 
 **Signs and symptoms**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - general tiredness
 - breathlessness when exercising or lying down
@@ -392,7 +424,7 @@ First, some terminology ...
 
 **Treatment**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - Unconscious patient
   - DRSABCD
@@ -411,7 +443,7 @@ First, some terminology ...
 
 **Signs and symptoms**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - discomfort or tight or squeezing pain in the chest (usually in the centre)
 - pain may be mild to severe
@@ -420,9 +452,11 @@ First, some terminology ...
 
 *If the patient has the above symptoms and they aren't relieved by angina medication, treat the patient as for a heart attack.*
 
+\vspace{0.4cm}
+
 **Treatment**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - ask patient to stop what they're doing and rest
 - help them sit or lie in a comfortable position and reassure them
@@ -449,7 +483,7 @@ First, some terminology ...
 
 **Signs and symptoms**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - discomfort or pain in the centre of the chest
 
@@ -459,6 +493,8 @@ First, some terminology ...
   - it could spread to the jaw, throat, neck, back and one or both shoulders, arms and hands
   
 *Atypical signs and symptoms*
+
+\vspace{-0.2cm}
 
 - pain might not be tight or squeezing
 
@@ -480,7 +516,7 @@ First, some terminology ...
 
 **Treatment**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - Unconscious patient
   - DRSABCD
@@ -507,9 +543,11 @@ First, some terminology ...
 
 *The only effective treatment for cardiac arrest outside a hospital is to use an automated external defibrillator (AED).*
 
+\vspace{0.4cm}
+
 **Signs and symptoms**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - sudden collapse
 - patient unresponsive
@@ -517,7 +555,7 @@ First, some terminology ...
 
 **Treatment**
 
-\vspace{-0.4cm}
+\vspace{-0.2cm}
 
 - DRSABCD
 - Call 000
@@ -537,7 +575,42 @@ First, some terminology ...
 
 There's a good video (with transcript) on masks in my "first aid resources" folder.
 
-**Note on terminology** *Oxygenation* - putting an oxygen mask on someone's face. *Ventilation* is taking or moving air into the lungs, which then move upwards and outwards, and then the body using oxygen and excreting carbon dioxide.
+\vspace{0.2cm}
+
+**Note on terminology**
+
+\vspace{-0.2cm}
+
+- *Oxygenation* is putting an oxygen mask on someone's face.
+- *Ventilation* is taking or moving air into the lungs, which then move upwards and outwards, and then the body using oxygen and excreting carbon dioxide.
+
+<br>
+
+# DRSABCD
+
+The full DRSABCD is really only useful for cardiac cases.
+
+- Manage life threatening conditions (e.g. severe bleeding) before any trauma.
+- **A** Never use suction on someone who's on their back.
+- **A** Always put patient in recovery position to use suction.
+- With multiple trauma or head or neck injuries, stabilise head and neck first.
+- **CD** See two photos below.
+  - Sources for photos: first - https://laerdal.com/au/local-campaigns--information/4-ways-teamreporter-can-help-you-build-high-performance-cpr-teams/; second - "van schuppen optimizing airway mgt 2021.pdf"
+
+<br>
+
+<div class="figure" style="text-align: center">
+<img src="figs/cpr_oxygen_aed_setup.jpg" alt="Setup for CPR with oxygen and AED - compressions right, AED left, oxygen head" width="50%" />
+<p class="caption">Setup for CPR with oxygen and AED - compressions right, AED left, oxygen head</p>
+</div>
+
+<br>
+
+<div class="figure" style="text-align: center">
+<img src="figs/van_schuppen_airway_mgt_mask_technique_2021.png" alt="Technique for getting mask to seal well and using soft bag" width="50%" />
+<p class="caption">Technique for getting mask to seal well and using soft bag</p>
+</div>
+
 
 <br>
 
@@ -549,66 +622,72 @@ There are four components of clinical assessment:
 
 2. Secondary assessment - head-to-toe examination
 
-3. Vital signs (measure what is appropriate)
+3. Vital signs (**minimum of two sets** - measure what's appropriate)
   - level of consciousness
   - pulse - rate, strength and quality
   - respiration - rate, strength and quality
   - skin colour and texture
   - temperature
   - blood pressure
-  - SpO~2~ (blood oxygen saturation)
+  - SpO~2~
+    - pulse oximetry measures arterial haemoglobin saturation
+    - note it can be inaccurate due to reduced perfusion at measurement site, shock or hypothermia
+    - *pulse oximetry and respiration rate are **complementary** measurements and should not be substituted for each other*
   - capillary refill time
-  - pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
+  - pupil reactions
+    - PERL - **p**upils **e**qual and **r**espond to **l**ight
+    - Are they equal and how do they respond to light?
   - BLG - blood glucose level
   
 4. Patient history - SAMPLE
   - **S** - signs and symptoms
   - **A** - allergies
-  - **M** - medication (regular and any within last 24 hours)
+  - **M** - medication (regular and any within last 24 hours) **and** what it's taken for
   - **P** - past medical history
   - **L** - last time they ate or drank
   - **E** - events leading up to the current incident
   
 
 
-<br>
-
-# Glossary
-
-**COPD** - chronic obstructive pulmonary disease (chronic inflammatory lung disease that inflames and narrows the airways; usually caused by long-term exposure to dust or cigarette smoke; also called emphysema or chronic bronchitis)
-
 
 <br>
 
-# Rough notes
+\vspace{5cm}
 
-## Assessment
 
-**Conscious patient and medical problem**
+## Clinical assessment - Conscious patient and medical problem
 
 *Introduction and consent*
 
-- Hello. My name's Peter. I'm a first aider.
-    - Do you need help? How can I help you?
+\vspace{-0.2cm}
 
-*Initial history*
-
-- What happened?
-- When did it happen?
-- How did it happen?
-- Have you got any pain? Where does it hurt?
-- Can you take a deep breath?
+- Hello. My name's Peter. I'm a first aider. Do you need help? 
 
 *Initial impression*
+
+\vspace{-0.2cm}
 
 - Note patient's reaction to your greeting.
 - Note their response.
 - Note their posture.
 - Note any discomfort or distress.
 
+*Initial history*
+
+\vspace{-0.2cm}
+
+- What happened?  \hspace{0.5cm}  How can I help you?  \hspace{0.5cm}  What's the problem you need help with?
+- When did it happen?  \hspace{0.5cm}  When did it start?
+- How did it happen?  \hspace{0.5cm} What were you doing when it happened / started?
+- Have you got any pain?  \hspace{0.5cm}  Where does it hurt?
+- Can you take a deep breath?
+  - *Think about* what bystanders tell you. It might have spin!
+
 *Primary assessment (including some vital signs)*
 
 (DRS)ABCD
+
+\vspace{-0.2cm}
 
 - Airway
 - Breathing - rate, rhythm, quality, SpO~2~
@@ -616,6 +695,8 @@ There are four components of clinical assessment:
 - Dysfunction
 
 *Vital signs (as appropriate)*
+
+\vspace{-0.2cm}
 
 - level of consciousness
 - pulse - rate, strength and quality
@@ -626,10 +707,12 @@ There are four components of clinical assessment:
 - SpO~2~ (blood oxygen saturation)
 - capillary refill time
 - pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
-- BLG - blood glucose level
+- BGL - blood glucose level
 
 
 *Secondary assessment*
+
+\vspace{-0.2cm}
 
 - Head-to-toe examination or focussed examination
 
@@ -637,6 +720,8 @@ There are four components of clinical assessment:
 *History*
 
 For a medical problem, history of current complaint
+
+\vspace{-0.2cm}
 
 - What is the complaint?
 - History - OPQRST
@@ -666,14 +751,22 @@ For a medical problem, history of current complaint
     
 
 
-SAMPLE
+For all patients - SAMPLE
+
+\vspace{-0.2cm}
 
 - **S** - signs and symptoms
 - **A** - allergies
-- **M** - medication (regular and any within last 24 hours)
+- **M** - medication (regular and any within last 24 hours) **and** what it's taken for
 - **P** - past medical history
 - **L** - last time they ate or drank
 - **E** - events leading up to the current incident
 
 
+
+<br>
+
+# Glossary
+
+**COPD** - chronic obstructive pulmonary disease (chronic inflammatory lung disease that inflames and narrows the airways; usually caused by long-term exposure to dust or cigarette smoke; also called emphysema or chronic bronchitis)
 
