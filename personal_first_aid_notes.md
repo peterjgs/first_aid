@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-03-19"
+date: "2025-03-29"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -138,6 +138,11 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 
 # Wounds and Dressings
 
+## Tourniquets
+
+- Apply a tourniquet to the *upper* arm or *upper* leg only. A tourniquet needs to be applied over a single bone to be able to get the pressure needed to squeeze the blood vessel enough to stop blood flow. In lower limbs, there are two bones and you can never get enough pressure applied on the blood vessel.
+- Write the time the tourniquet was applied on the patient's forehead in blood (the best ink!).
+
 ## Wound types
 
 <table class="table" style="color: black; width: auto !important; ">
@@ -257,7 +262,7 @@ Depressants slow down messages travelling between the brain and the body.
 
 
 <div class="figure" style="text-align: left">
-<img src="figs/bag_valve_mask_resuscitator_copy.png" alt="Bag-valve-mask (BVM) resuscitator" width="40%" />
+<img src="figs/bag_valve_mask_resuscitator_copy.png" alt="Bag-valve-mask (BVM) resuscitator" width="50%" />
 <p class="caption">Bag-valve-mask (BVM) resuscitator</p>
 </div>
 
@@ -591,10 +596,10 @@ There's a good video (with transcript) on masks in my "first aid resources" fold
 The full DRSABCD is really only useful for cardiac cases.
 
 - Manage life threatening conditions (e.g. severe bleeding) before any trauma.
-- **A** Never use suction on someone who's on their back.
-- **A** Always put patient in recovery position to use suction.
 - With multiple trauma or head or neck injuries, stabilise head and neck first.
-- **CD** See two photos below.
+- **A** - Never use suction on someone who's on their back.
+- **A** - Always put patient in recovery position to use suction.
+- **CD** - See two photos below.
   - Sources for photos: first - https://laerdal.com/au/local-campaigns--information/4-ways-teamreporter-can-help-you-build-high-performance-cpr-teams/; second - "van schuppen optimizing airway mgt 2021.pdf"
 
 <br>
@@ -643,17 +648,15 @@ There are four components of clinical assessment:
   - **S** - signs and symptoms
   - **A** - allergies
   - **M** - medication (regular and any within last 24 hours) **and** what it's taken for
+    - include herbal preparations and vitamin supplements
   - **P** - past medical history
   - **L** - last time they ate or drank
   - **E** - events leading up to the current incident
-  
 
+With patient history, link **M** and **P** together - i.e. link medical conditions with medication being taken.
 
 
 <br>
-
-\vspace{5cm}
-
 
 ## Clinical assessment - Conscious patient and medical problem
 
@@ -758,9 +761,122 @@ For all patients - SAMPLE
 - **S** - signs and symptoms
 - **A** - allergies
 - **M** - medication (regular and any within last 24 hours) **and** what it's taken for
+  - include herbal preparations and vitamin supplements
 - **P** - past medical history
 - **L** - last time they ate or drank
 - **E** - events leading up to the current incident
+
+With patient history, link **M** and **P** together - i.e. link medical conditions with medication being taken.
+
+<br>
+
+# Lifting and moving patients
+
+- *Spine boards* and *scoop stretchers* are for lifting patients and putting them onto a stretcher. They are *not* for transporting patients.
+- There needs to be a team leader when a patient is being moved by a group of people.
+  - The team leader observes but does not execute.
+  - The team leader should give commands, "Ready to lift. Lift."
+- Move the patient *feet first*. That way
+  - the patient can then see where they're headed and
+  - the person supporting the patient's head can walk forwards.
+- Always face forwards when moving a patient.
+- To stop the stretcher rocking sideways (i.e. rhythmically swaying) and to keep it stable, people on each side of the stretcher (or whatever) should all step off on the outside foot first.
+
+
+<br>
+
+# Triage
+
+There are two stages:
+
+1. sieve and 
+2. sort
+
+## Adult triage sieve
+
+| Priority | Condition |
+|:--------:|:----------|
+|    1     | Need to be in hospital immediately |
+|    2     | Need to be in hospital but not immediately |
+|    3     | "Walking wounded" |
+
+After sieving comes sorting, which is done as a second step, when more responders arrive.
+
+<br>
+
+# Pain management
+
+- This topic will be assessed on weekend 2 of the Training Academy.
+- All questions are short answer.
+
+Main points:  **<span style='color: orange;'>These main points need to be memorised!!</span>**
+
+- dose rates of drugs
+- contraindications - the most important of these is allergic reaction
+  - the *only* medication without any contraindications is adrenalin - it's produced by the body!
+
+
+# Medications
+
+What is a medication?
+
+- In medical terms, it's a substance that can potentially prevent or cure disease.
+- In pharmacological terms, it's a chemical substance that changes the biochemical or physiological processes in an organism.
+
+Things to consider when giving medication include
+
+- **contraindications**
+- need vs. benefit
+- risks
+- side effects or adverse effects
+- safety
+- environment (e.g. is the environment free of naked flames or sparks if oxygen is to be given?)
+- equipment needed
+- form of the medication (this relates to the equipment needed)
+- consent of the patient
+
+After a patient is given medication, they need to be monitored so there reactions can be observed.
+
+
+**Five rights of medication**
+
+- the right medication
+- to the right patient
+- at the right dose
+- at the right time
+- via the right route
+
+Then write it all down - **TREND**
+
+- **T** - date and time given
+- **R** - route of administration
+- **E** - effect of medication on casualty - monitor them they take the drug!
+- **N** - name of medication
+  - *drug name* (*not* the trade name!)
+  - *strength* of the medication 
+  - *form* of the medication (e.g. tablet, capsule, liquid, ...)
+  - e.g. Paracetamol 500 mg tablet
+- **D** - dose given to patient
+
+
+**Routes of administering medication** **<span style='color: orange;'>Know these!</span>**
+
+- oral
+- intramuscular - into deep tissue (e.g. Epipen)
+- intravenous
+- topical - via skin (e.g. Stingose)
+- subcutaneous - under skin into fatty layers
+- inhalant (e.g. methoxyflurane)
+- sublingual (e.g. angina medication - we can *help* a patient administer these)
+- intraocular (e.g. Systane)
+- transdermal - patches impregnated with a drug (e.g. nicotine patches, some angina medications)
+  - **Wear gloves when handling these to prevent yourself accidentally absorbing the drug!**
+
+Medications must be kept in their original container, especially prescription medications.
+
+- This is so the person they're prescribed for can be verified.
+- Don't carry drugs not prescribed for you!
+- *Don't* return unused medications to the packet.
 
 
 
@@ -769,4 +885,10 @@ For all patients - SAMPLE
 # Glossary
 
 **COPD** - chronic obstructive pulmonary disease (chronic inflammatory lung disease that inflames and narrows the airways; usually caused by long-term exposure to dust or cigarette smoke; also called emphysema or chronic bronchitis)
+
+<br>
+
+# References and resources
+
+Dr John Eburn's blog on Australian Emergency Law (https://australianemergencylaw.com)
 
