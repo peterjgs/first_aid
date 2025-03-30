@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-03-29"
+date: "2025-03-30"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -135,6 +135,21 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 - Get the patient to drink some water.
 
 <br>
+
+# Crush injuries
+
+Remove the source of crushing, *if it is safe to do so.*
+
+- For example, if a victim is unconscious with bookshelves crushing their legs, which are bleeding, remove the bookshelves, if it's safe to do so.
+
+When removing an object which is crushing a victim, be prepared to manage bleeding.
+
+If there's lots of damage to the chest and/or abdomen, don't remove the crushing object.
+
+Look at the CPD recording by Dr Jason Bendall on crush injuries (see Resources below).
+
+<br>
+
 
 # Wounds and Dressings
 
@@ -305,9 +320,6 @@ Depressants slow down messages travelling between the brain and the body.
 - altered state of consciousness
 - nausea and vomiting
 - increased urination (diuretic effect)
-
-
-
 
 
 ### Substances that speed people up - stimulants
@@ -619,6 +631,12 @@ The full DRSABCD is really only useful for cardiac cases.
 
 <br>
 
+# Consent
+
+Any person 16 or over can give consent to first aid treatment.
+
+<br>
+
 # Clinical assessment
 
 There are four components of clinical assessment:
@@ -825,9 +843,13 @@ What is a medication?
 
 Things to consider when giving medication include
 
-- **contraindications**
+- **contraindications** (these are reasons not to give a medication because it'd be dangerous)
+  - casualty sensitivities
+  - harmful interactions
+  - patient condition
 - need vs. benefit
 - risks
+- precautions (action to prevent an undesirable outcome)
 - side effects or adverse effects
 - safety
 - environment (e.g. is the environment free of naked flames or sparks if oxygen is to be given?)
@@ -892,3 +914,4 @@ Medications must be kept in their original container, especially prescription me
 
 Dr John Eburn's blog on Australian Emergency Law (https://australianemergencylaw.com)
 
+Dr Jason Bendall, Crush injuries (in LMS in Elective CDP material, 2022 Recorded CPD sessions, 20221004 Crush injuries)
