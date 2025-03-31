@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-03-30"
+date: "2025-03-31"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -29,6 +29,144 @@ output:
 
 
 
+# Asthma
+
+Asthma occurs when the muscles in the bronchioles tighten and the lining of the bronchioles becomes inflamed, producing excess mucus. This reduces the size of the air passages, so that insufficient air can flow into and out of the lungs. This results in insufficient oxygen being transferred into the blood and insufficient gaseous waste products being removed.
+
+Factors that may bring on asthma include:
+
+- air pollution (e.g. smoke from wood fires, cigarettes)
+- allergies (to dust mites, mould, pollen, ...)
+- anxiety
+- exercise
+- food additives
+- infections (e.g. colds, flu)
+- changes in the weather (e.g. change in temperature)
+
+**Asthma medication**
+
+- Relievers
+  - they dilate the airways quickly (i.e. within minutes at most)
+  - used by people who have asthma to relieve symptoms of an asthma attack
+  - usually administered by a puffer
+  
+- Preventers
+  - they are taken regularly and help to control asthma symptoms
+  - someone who takes an asthma preventer will also usually use a reliever when an attack occurs
+
+\vspace{2cm}
+  
+**Signs and symptoms**
+
+<table class="table" style="color: black; ">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-style: italic;"> Mild to moderate attack </th>
+   <th style="text-align:left;font-style: italic;"> Severe attack - asthma emergency </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Symptoms get worse quickly </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Inhaler gives little relief </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; "> Can walk but speaks in short sentences or phrases </td>
+   <td style="text-align:left;"> Unable to speak normally </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; "> Wheeze (soft or loud) or persistent cough (same as anaphylaxis) </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; "> Difficulty breathing (slight to moderate) </td>
+   <td style="text-align:left;"> Severe difficulty breathing - may be highly focussed on breathing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Increasingly anxious or subdued </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Appears pale, sweating </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Blue face, lips, earlobes or fingernails </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 15em; ">  </td>
+   <td style="text-align:left;"> Loses consciousness </td>
+  </tr>
+</tbody>
+</table>
+
+**Treatment**
+
+- DRSABCD
+- Sit patient down. Make them comfortable.
+- Keep them calm and reassure them.
+- Help them carry out their asthma action plan, if they have one and if they ask for help.
+- If necessary, help them use their inhaler. If they don't have one, use one at hand.
+
+*Using an inhaler*
+
+- Shake the inhaler.
+- Use a spacer, if one is available.
+- Give one puff. Patient takes four breaths. Do this four times.
+- Wait four minutes.
+- If the patient still cannot breathe normally, repeat the above cycle.
+- If the patient still cannot breathe normally after the second cycle, call 000.
+- Keep carrying out the above cycle, with four minutes between each cycle, till medical help arrives.
+
+<br>
+
+# Anaphylaxis
+
+Anaphylaxis occurs when someone is exposed to an allergen which they are extremely sensitive to.
+
+Asthma, allergies and anaphylaxis often happen together.
+
+If you need to use both an asthma reliever (puffer) and adrenaline (Epipen, Anapen), **always give the adrenaline first**.
+
+**Signs and symptoms**
+
+The main symptoms are:
+
+- rapidly developing breathing difficulty
+- rapidly developing circulation problems
+
+Other signs and symptoms include:
+
+- wheeze or persistent cough (same as asthma)
+- breathing is difficult or noisy
+- talking is difficult
+- swelling of face, eyes, lips, tongue
+- swelling or tightness in the throat
+- faintness, dizziness
+- hives, welts or body rash
+- abdominal pain, vomiting, diarrhoea
+- confusion
+- loss of consciousness
+
+**Treatment**
+
+- If the patient is conscious, help them to lie down flat or, if they find breathing difficult, let them sit with their legs outstretched. Do **not** let them stand or walk.
+- If they're unconscious and breathing, put them in the recovery position (if they're pregnant, put them on their left side).
+- Get the patient to use their adrenaline auto-injector immediately.
+- Help the patient do this only if they ask for help.
+- If they can't give verbal consent to you to help them, administer adrenaline yourself immediately.
+- Call 000 (in all cases of anaphylaxis).
+- Monitor the effects of the adrenaline.
+- If the patient does not improve within five minutes, give another dose of adrenaline.
+- If breathing stops, give CPR.
+
+
+<br>
 
 # Shock
 
@@ -140,9 +278,9 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 
 Remove the source of crushing, *if it is safe to do so.*
 
-- For example, if a victim is unconscious with bookshelves crushing their legs, which are bleeding, remove the bookshelves, if it's safe to do so.
+- For example, if a casualty is unconscious with bookshelves crushing their legs, which are bleeding, remove the bookshelves, if it's safe to do so.
 
-When removing an object which is crushing a victim, be prepared to manage bleeding.
+When removing an object which is crushing a casualty, be prepared to manage bleeding.
 
 If there's lots of damage to the chest and/or abdomen, don't remove the crushing object.
 
@@ -348,6 +486,8 @@ Stimulants speed up messages travelling between the brain and the body.
   - remove clothing
   - keep the environment cool
 - Stay with them - don't leave them alone - and monitor them.  
+
+\vspace{2cm}
 
 **Examples**
 

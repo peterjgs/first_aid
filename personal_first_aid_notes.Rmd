@@ -52,6 +52,128 @@ colourise <- function(x, color) {
 
 ```
 
+# Asthma
+
+Asthma occurs when the muscles in the bronchioles tighten and the lining of the bronchioles becomes inflamed, producing excess mucus. This reduces the size of the air passages, so that insufficient air can flow into and out of the lungs. This results in insufficient oxygen being transferred into the blood and insufficient gaseous waste products being removed.
+
+Factors that may bring on asthma include:
+
+\vspace{-0.2cm}
+
+- air pollution (e.g. smoke from wood fires, cigarettes)
+- allergies (to dust mites, mould, pollen, ...)
+- anxiety
+- exercise
+- food additives
+- infections (e.g. colds, flu)
+- changes in the weather (e.g. change in temperature)
+
+**Asthma medication**
+
+- Relievers
+  - they dilate the airways quickly (i.e. within minutes at most)
+  - used by people who have asthma to relieve symptoms of an asthma attack
+  - usually administered by a puffer
+  
+- Preventers
+  - they are taken regularly and help to control asthma symptoms
+  - someone who takes an asthma preventer will also usually use a reliever when an attack occurs
+
+\vspace{2cm}
+  
+**Signs and symptoms**
+
+```{r}
+
+asthma <- read.csv("asthma.csv")
+
+#knitr::kable(wounds)
+
+asthma %>%
+  kbl(col.names = c("Mild to moderate attack",
+                    "Severe attack - asthma emergency")) %>%
+  kable_styling(position = "left", full_width = T) %>%
+  row_spec(0, italic = T) %>%
+  column_spec(1, width = "15em") 
+
+```
+
+\vspace{0.5cm}
+
+**Treatment**
+
+\vspace{-0.2cm}
+
+- DRSABCD
+- Sit patient down. Make them comfortable.
+- Keep them calm and reassure them.
+- Help them carry out their asthma action plan, if they have one and if they ask for help.
+- If necessary, help them use their inhaler. If they don't have one, use one at hand.
+
+*Using an inhaler*
+
+\vspace{-0.2cm}
+
+- Shake the inhaler.
+- Use a spacer, if one is available.
+- Give one puff. Patient takes four breaths. Do this four times.
+- Wait four minutes.
+- If the patient still cannot breathe normally, repeat the above cycle.
+- If the patient still cannot breathe normally after the second cycle, call 000.
+- Keep carrying out the above cycle, with four minutes between each cycle, till medical help arrives.
+
+<br>
+
+# Anaphylaxis
+
+Anaphylaxis occurs when someone is exposed to an allergen which they are extremely sensitive to.
+
+Asthma, allergies and anaphylaxis often happen together.
+
+If you need to use both an asthma reliever (puffer) and adrenaline (Epipen, Anapen), **always give the adrenaline first**.
+
+\vspace{0.2cm}
+
+**Signs and symptoms**
+
+The main symptoms are:
+
+\vspace{-0.2cm}
+
+- rapidly developing breathing difficulty
+- rapidly developing circulation problems
+
+Other signs and symptoms include:
+
+\vspace{-0.2cm}
+
+- wheeze or persistent cough (same as asthma)
+- breathing is difficult or noisy
+- talking is difficult
+- swelling of face, eyes, lips, tongue
+- swelling or tightness in the throat
+- faintness, dizziness
+- hives, welts or body rash
+- abdominal pain, vomiting, diarrhoea
+- confusion
+- loss of consciousness
+
+**Treatment**
+
+\vspace{-0.2cm}
+
+- If the patient is conscious, help them to lie down flat or, if they find breathing difficult, let them sit with their legs outstretched. Do **not** let them stand or walk.
+- If they're unconscious and breathing, put them in the recovery position (if they're pregnant, put them on their left side).
+- Get the patient to use their adrenaline auto-injector immediately.
+- Help the patient do this only if they ask for help.
+- If they can't give verbal consent to you to help them, administer adrenaline yourself immediately.
+- Call 000 (in all cases of anaphylaxis).
+- Monitor the effects of the adrenaline.
+- If the patient does not improve within five minutes, give another dose of adrenaline.
+- If breathing stops, give CPR.
+
+
+<br>
 
 # Shock
 
@@ -163,9 +285,9 @@ Losing too much water and salt through sweating can cause heat cramps, especiall
 
 Remove the source of crushing, *if it is safe to do so.*
 
-- For example, if a victim is unconscious with bookshelves crushing their legs, which are bleeding, remove the bookshelves, if it's safe to do so.
+- For example, if a casualty is unconscious with bookshelves crushing their legs, which are bleeding, remove the bookshelves, if it's safe to do so.
 
-When removing an object which is crushing a victim, be prepared to manage bleeding.
+When removing an object which is crushing a casualty, be prepared to manage bleeding.
 
 If there's lots of damage to the chest and/or abdomen, don't remove the crushing object.
 
