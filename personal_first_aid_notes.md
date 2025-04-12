@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-03-31"
+date: "2025-04-12"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -34,6 +34,8 @@ output:
 Asthma occurs when the muscles in the bronchioles tighten and the lining of the bronchioles becomes inflamed, producing excess mucus. This reduces the size of the air passages, so that insufficient air can flow into and out of the lungs. This results in insufficient oxygen being transferred into the blood and insufficient gaseous waste products being removed.
 
 Factors that may bring on asthma include:
+
+\vspace{-0.2cm}
 
 - air pollution (e.g. smoke from wood fires, cigarettes)
 - allergies (to dust mites, mould, pollen, ...)
@@ -105,7 +107,11 @@ Factors that may bring on asthma include:
 </tbody>
 </table>
 
+\vspace{0.5cm}
+
 **Treatment**
+
+\vspace{-0.2cm}
 
 - DRSABCD
 - Sit patient down. Make them comfortable.
@@ -114,6 +120,8 @@ Factors that may bring on asthma include:
 - If necessary, help them use their inhaler. If they don't have one, use one at hand.
 
 *Using an inhaler*
+
+\vspace{-0.2cm}
 
 - Shake the inhaler.
 - Use a spacer, if one is available.
@@ -133,14 +141,20 @@ Asthma, allergies and anaphylaxis often happen together.
 
 If you need to use both an asthma reliever (puffer) and adrenaline (Epipen, Anapen), **always give the adrenaline first**.
 
+\vspace{0.2cm}
+
 **Signs and symptoms**
 
 The main symptoms are:
+
+\vspace{-0.2cm}
 
 - rapidly developing breathing difficulty
 - rapidly developing circulation problems
 
 Other signs and symptoms include:
+
+\vspace{-0.2cm}
 
 - wheeze or persistent cough (same as asthma)
 - breathing is difficult or noisy
@@ -154,6 +168,8 @@ Other signs and symptoms include:
 - loss of consciousness
 
 **Treatment**
+
+\vspace{-0.2cm}
 
 - If the patient is conscious, help them to lie down flat or, if they find breathing difficult, let them sit with their legs outstretched. Do **not** let them stand or walk.
 - If they're unconscious and breathing, put them in the recovery position (if they're pregnant, put them on their left side).
@@ -785,33 +801,9 @@ There are four components of clinical assessment:
 
 2. Secondary assessment - head-to-toe examination
 
-3. Vital signs (**minimum of two sets** - measure what's appropriate)
-  - level of consciousness
-  - pulse - rate, strength and quality
-  - respiration - rate, strength and quality
-  - skin colour and texture
-  - temperature
-  - blood pressure
-  - SpO~2~
-    - pulse oximetry measures arterial haemoglobin saturation
-    - note it can be inaccurate due to reduced perfusion at measurement site, shock or hypothermia
-    - *pulse oximetry and respiration rate are **complementary** measurements and should not be substituted for each other*
-  - capillary refill time
-  - pupil reactions
-    - PERL - **p**upils **e**qual and **r**espond to **l**ight
-    - Are they equal and how do they respond to light?
-  - BLG - blood glucose level
-  
-4. Patient history - SAMPLE
-  - **S** - signs and symptoms
-  - **A** - allergies
-  - **M** - medication (regular and any within last 24 hours) **and** what it's taken for
-    - include herbal preparations and vitamin supplements
-  - **P** - past medical history
-  - **L** - last time they ate or drank
-  - **E** - events leading up to the current incident
+3. Vital signs (see below - **minimum of two sets** - measure what's appropriate)
 
-With patient history, link **M** and **P** together - i.e. link medical conditions with medication being taken.
+4. Patient history - SAMPLE (see below)
 
 
 <br>
@@ -860,12 +852,15 @@ With patient history, link **M** and **P** together - i.e. link medical conditio
 \vspace{-0.2cm}
 
 - level of consciousness
-- pulse - rate, strength and quality
 - respiration - rate, strength and quality
 - skin colour and texture
 - temperature
+- pulse - rate, strength and quality
 - blood pressure
 - SpO~2~ (blood oxygen saturation)
+    - pulse oximetry measures arterial haemoglobin saturation
+    - note it can be inaccurate due to reduced perfusion at measurement site, shock or hypothermia
+    - *pulse oximetry and respiration rate are **complementary** measurements and should not be substituted for each other*
 - capillary refill time
 - pupil reactions (PERL - **p**upils **e**qual and **r**espond to **l**ight - Are they equal and how do they respond to light?)
 - BGL - blood glucose level
@@ -880,7 +875,23 @@ With patient history, link **M** and **P** together - i.e. link medical conditio
 
 *History*
 
-For a medical problem, history of current complaint
+For all patients - **SAMPLE**
+
+\vspace{-0.2cm}
+
+- **S** - signs and symptoms
+- **A** - allergies
+- **M** - medication (regular and any within last 24 hours) **and** what it's taken for
+  - include herbal preparations and vitamin supplements
+- **P** - past medical history
+- **L** - last time they ate or drank
+- **E** - events leading up to the current incident
+
+With patient history, link **M** and **P** together - i.e. link medical conditions with medication being taken.
+
+<br>
+
+For a medical problem, history of current complaint - **OPQRST**
 
 \vspace{-0.2cm}
 
@@ -909,22 +920,6 @@ For a medical problem, history of current complaint
     - How long did it last?
     - Is it constant or does it come and go?
      
-    
-
-
-For all patients - SAMPLE
-
-\vspace{-0.2cm}
-
-- **S** - signs and symptoms
-- **A** - allergies
-- **M** - medication (regular and any within last 24 hours) **and** what it's taken for
-  - include herbal preparations and vitamin supplements
-- **P** - past medical history
-- **L** - last time they ate or drank
-- **E** - events leading up to the current incident
-
-With patient history, link **M** and **P** together - i.e. link medical conditions with medication being taken.
 
 <br>
 
