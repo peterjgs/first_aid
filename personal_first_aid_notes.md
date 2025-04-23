@@ -1,7 +1,7 @@
 --- 
 title: "First Aid Notes"
 author: "PGS"
-date: "2025-04-12"
+date: "2025-04-23"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -124,7 +124,7 @@ Factors that may bring on asthma include:
 \vspace{-0.2cm}
 
 - Shake the inhaler.
-- Use a spacer, if one is available.
+- Use a spacer, if one is available. Prime the inhaler, if needed (cardboard ones don't need priming).
 - Give one puff. Patient takes four breaths. Do this four times.
 - Wait four minutes.
 - If the patient still cannot breathe normally, repeat the above cycle.
@@ -257,6 +257,7 @@ The aim is to cool down and rehydrate the patient.
 - Apply ice packs to neck, armpits, groin.
 - Fan them continuously.
 - Keep spraying them with water or wiping them with a wet cloth.
+- Give them cold water to sip if they're conscious and can swallow.
 
 <br>
 
@@ -805,6 +806,36 @@ There are four components of clinical assessment:
 
 4. Patient history - SAMPLE (see below)
 
+
+<br>
+
+---
+
+## <span style='color: purple;'>Arriving at the scene</span>
+
+**DRSABCD**, along with
+
+1. Ask the casualty what's wrong and what happened
+
+2. Ask bystanders what happened - but don't implicitly trust their versions!
+
+3. Have a situation report ready within one minute
+
+    - Patient age and gender
+    - Location
+    - Level of consciousness (AVPU)
+    - Breathing status
+    - Primary problem
+    - Any help required?
+    - Plan for treatment, if obvious
+
+4. Start filling in Patient Care Record
+
+5. Continue primary assessment - take a set of basic observations
+
+6. Start thinking about appropriate treatment and start implementing it
+
+---
 
 <br>
 
